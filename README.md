@@ -1,5 +1,5 @@
 # Banking Management System
-This is a simple java swing based banking program which I created for my minor project submission
+This is a simple java swing based banking program which I created for my minor project submission. It is created on Netbeans using Oracle Database 21C
 
 ## Screenshots
 ![Screeshots](img/img1.png)
